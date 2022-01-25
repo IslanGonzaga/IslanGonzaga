@@ -1,5 +1,14 @@
-- 👋 Hi, I’m @IslanGonzaga
-- 👀 I’m interested: in Data Science
-- 🌱 I’m currently learning: Java and Python
+- 👋 Hi, I’m **@IslanGonzaga**
+- 
+- 👀 I’m **interested**: in Back-End programming
+- 
+- 🌱 I’m **currently learning**: Ruby
+- 
+- 👨‍💻 Languages **learned**:
+-   *Python* (Intermediary 🟩🟩🟩⬛),
+-   *Java* (Medium 🟩🟩⬛⬛),
+-   *SQL and MySQL SGBD* (Medium 🟩🟩⬛⬛)
+-   
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: send a mail
+- 
+- 📫 How to **reach me**: send a mail!
